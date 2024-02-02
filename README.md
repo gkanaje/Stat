@@ -30,6 +30,6 @@ Before you begin the course, ensure you have the following:
 
 ## Support
 
-If you have any questions or encounter any challenges while working through the course content or code files, feel free to reach out to us through linkedin[www.linkedin.com/in/sakshi-singhal-bb0b3213a].
+If you have any questions or encounter any challenges while working through the course content or code files, feel free to reach out to us through linkedin[www.linkedin.com/in/sakshi-singhal-bb0b3213a]. 
 
  
